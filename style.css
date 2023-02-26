@@ -11,11 +11,6 @@
   flex: 1 220px;
 }
 
-/*
-Challenge:
-  - Set the initial main size of .expand to a size larger than 220px
-*/
-
 .expand {
   flex: 320px;
 }
